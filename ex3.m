@@ -1,8 +1,4 @@
 
-%exp nO 2
-%megha chandran
-%S5 ECE B
-%ROLL NO 5
 clc
 clear all
 x=input("enter the sequence 0-(N-1)");
