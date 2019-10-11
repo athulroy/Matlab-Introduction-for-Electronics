@@ -22,3 +22,4 @@ stem(abs(x))
 xlabel('k');
 ylabel('magnitude,[x(k)]');
 title('magnitude of X(K)');
+stem(y)
